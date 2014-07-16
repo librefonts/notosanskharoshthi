@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <cmap>
+    <tableVersion version="0"/>
+    <cmap_format_4 platformID="3" platEncID="1" language="0">
+      <map code="0x0" name="uniFEFF"/><!-- &lt;control> -->
+      <map code="0xd" name="uni000D"/><!-- &lt;control> -->
+      <map code="0x20" name="uni00A0"/><!-- SPACE -->
+      <map code="0xa0" name="uni00A0"/><!-- NO-BREAK SPACE -->
+      <map code="0xfeff" name="uniFEFF"/><!-- ZERO WIDTH NO-BREAK SPACE -->
+    </cmap_format_4>
+    <cmap_format_12 platformID="3" platEncID="10" format="12" reserved="0" length="172" language="0" nGroups="13">
+      <map code="0x0" name="uniFEFF"/><!-- &lt;control> -->
+      <map code="0xd" name="uni000D"/><!-- &lt;control> -->
+      <map code="0x20" name="uni00A0"/><!-- SPACE -->
+      <map code="0xa0" name="uni00A0"/><!-- NO-BREAK SPACE -->
+      <map code="0xfeff" name="uniFEFF"/><!-- ZERO WIDTH NO-BREAK SPACE -->
+      <map code="0x10a00" name="glyph00004"/><!-- KHAROSHTHI LETTER A -->
+      <map code="0x10a01" name="glyph00005"/><!-- KHAROSHTHI VOWEL SIGN I -->
+      <map code="0x10a02" name="glyph00006"/><!-- KHAROSHTHI VOWEL SIGN U -->
+      <map code="0x10a03" name="glyph00007"/><!-- KHAROSHTHI VOWEL SIGN VOCALIC R -->
+      <map code="0x10a05" name="glyph00008"/><!-- KHAROSHTHI VOWEL SIGN E -->
+      <map code="0x10a06" name="glyph00009"/><!-- KHAROSHTHI VOWEL SIGN O -->
+      <map code="0x10a0c" name="glyph00010"/><!-- KHAROSHTHI VOWEL LENGTH MARK -->
+      <map code="0x10a0d" name="glyph00011"/><!-- KHAROSHTHI SIGN DOUBLE RING BELOW -->
+      <map code="0x10a0e" name="glyph00012"/><!-- KHAROSHTHI SIGN ANUSVARA -->
+      <map code="0x10a0f" name="glyph00013"/><!-- KHAROSHTHI SIGN VISARGA -->
+      <map code="0x10a10" name="glyph00014"/><!-- KHAROSHTHI LETTER KA -->
+      <map code="0x10a11" name="glyph00015"/><!-- KHAROSHTHI LETTER KHA -->
+      <map code="0x10a12" name="glyph00016"/><!-- KHAROSHTHI LETTER GA -->
+      <map code="0x10a13" name="glyph00017"/><!-- KHAROSHTHI LETTER GHA -->
+      <map code="0x10a15" name="glyph00018"/><!-- KHAROSHTHI LETTER CA -->
+      <map code="0x10a16" name="glyph00019"/><!-- KHAROSHTHI LETTER CHA -->
+      <map code="0x10a17" name="glyph00020"/><!-- KHAROSHTHI LETTER JA -->
+      <map code="0x10a19" name="glyph00021"/><!-- KHAROSHTHI LETTER NYA -->
+      <map code="0x10a1a" name="glyph00022"/><!-- KHAROSHTHI LETTER TTA -->
+      <map code="0x10a1b" name="glyph00023"/><!-- KHAROSHTHI LETTER TTHA -->
+      <map code="0x10a1c" name="glyph00024"/><!-- KHAROSHTHI LETTER DDA -->
+      <map code="0x10a1d" name="glyph00025"/><!-- KHAROSHTHI LETTER DDHA -->
+      <map code="0x10a1e" name="glyph00026"/><!-- KHAROSHTHI LETTER NNA -->
+      <map code="0x10a1f" name="glyph00027"/><!-- KHAROSHTHI LETTER TA -->
+      <map code="0x10a20" name="glyph00028"/><!-- KHAROSHTHI LETTER THA -->
+      <map code="0x10a21" name="glyph00029"/><!-- KHAROSHTHI LETTER DA -->
+      <map code="0x10a22" name="glyph00030"/><!-- KHAROSHTHI LETTER DHA -->
+      <map code="0x10a23" name="glyph00031"/><!-- KHAROSHTHI LETTER NA -->
+      <map code="0x10a24" name="glyph00032"/><!-- KHAROSHTHI LETTER PA -->
+      <map code="0x10a25" name="glyph00033"/><!-- KHAROSHTHI LETTER PHA -->
+      <map code="0x10a26" name="glyph00034"/><!-- KHAROSHTHI LETTER BA -->
+      <map code="0x10a27" name="glyph00035"/><!-- KHAROSHTHI LETTER BHA -->
+      <map code="0x10a28" name="glyph00036"/><!-- KHAROSHTHI LETTER MA -->
+      <map code="0x10a29" name="glyph00037"/><!-- KHAROSHTHI LETTER YA -->
+      <map code="0x10a2a" name="glyph00038"/><!-- KHAROSHTHI LETTER RA -->
+      <map code="0x10a2b" name="glyph00039"/><!-- KHAROSHTHI LETTER LA -->
+      <map code="0x10a2c" name="glyph00040"/><!-- KHAROSHTHI LETTER VA -->
+      <map code="0x10a2d" name="glyph00041"/><!-- KHAROSHTHI LETTER SHA -->
+      <map code="0x10a2e" name="glyph00042"/><!-- KHAROSHTHI LETTER SSA -->
+      <map code="0x10a2f" name="glyph00043"/><!-- KHAROSHTHI LETTER SA -->
+      <map code="0x10a30" name="glyph00044"/><!-- KHAROSHTHI LETTER ZA -->
+      <map code="0x10a31" name="glyph00045"/><!-- KHAROSHTHI LETTER HA -->
+      <map code="0x10a32" name="glyph00046"/><!-- KHAROSHTHI LETTER KKA -->
+      <map code="0x10a33" name="glyph00047"/><!-- KHAROSHTHI LETTER TTTHA -->
+      <map code="0x10a38" name="glyph00048"/><!-- KHAROSHTHI SIGN BAR ABOVE -->
+      <map code="0x10a39" name="glyph00049"/><!-- KHAROSHTHI SIGN CAUDA -->
+      <map code="0x10a3a" name="glyph00050"/><!-- KHAROSHTHI SIGN DOT BELOW -->
+      <map code="0x10a3f" name="glyph00051"/><!-- KHAROSHTHI VIRAMA -->
+      <map code="0x10a40" name="glyph00052"/><!-- KHAROSHTHI DIGIT ONE -->
+      <map code="0x10a41" name="glyph00053"/><!-- KHAROSHTHI DIGIT TWO -->
+      <map code="0x10a42" name="glyph00054"/><!-- KHAROSHTHI DIGIT THREE -->
+      <map code="0x10a43" name="glyph00055"/><!-- KHAROSHTHI DIGIT FOUR -->
+      <map code="0x10a44" name="glyph00056"/><!-- KHAROSHTHI NUMBER TEN -->
+      <map code="0x10a45" name="glyph00057"/><!-- KHAROSHTHI NUMBER TWENTY -->
+      <map code="0x10a46" name="glyph00058"/><!-- KHAROSHTHI NUMBER ONE HUNDRED -->
+      <map code="0x10a47" name="glyph00059"/><!-- KHAROSHTHI NUMBER ONE THOUSAND -->
+      <map code="0x10a50" name="glyph00060"/><!-- KHAROSHTHI PUNCTUATION DOT -->
+      <map code="0x10a51" name="glyph00061"/><!-- KHAROSHTHI PUNCTUATION SMALL CIRCLE -->
+      <map code="0x10a52" name="glyph00062"/><!-- KHAROSHTHI PUNCTUATION CIRCLE -->
+      <map code="0x10a53" name="glyph00063"/><!-- KHAROSHTHI PUNCTUATION CRESCENT BAR -->
+      <map code="0x10a54" name="glyph00064"/><!-- KHAROSHTHI PUNCTUATION MANGALAM -->
+      <map code="0x10a55" name="glyph00065"/><!-- KHAROSHTHI PUNCTUATION LOTUS -->
+      <map code="0x10a56" name="glyph00066"/><!-- KHAROSHTHI PUNCTUATION DANDA -->
+      <map code="0x10a57" name="glyph00067"/><!-- KHAROSHTHI PUNCTUATION DOUBLE DANDA -->
+      <map code="0x10a58" name="glyph00068"/><!-- KHAROSHTHI PUNCTUATION LINES -->
+    </cmap_format_12>
+  </cmap>
+
+</ttFont>
