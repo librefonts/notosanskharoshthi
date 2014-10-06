@@ -1,0 +1,24 @@
+{
+  "name": "Noto Sans Kharoshthi",
+  "designer": "Monotype Design team",
+  "license": "",
+  "visibility": "Sandbox",
+  "category": "monospace",
+  "size": 15952,
+  "fonts": [
+    {
+      "name": "Noto Sans Kharoshthi",
+      "style": "normal",
+      "weight": 400,
+      "filename": "NotoSansKharoshthi-Regular.ttf",
+      "postScriptName": "NotoSansKharoshthi",
+      "fullName": "Noto Sans Kharoshthi",
+      "copyright": "Copyright 2013 Google Inc. All Rights Reserved."
+    }
+  ],
+  "subsets": [
+    "latin",
+    "menu"
+  ],
+  "dateAdded": "2014-10-06"
+}
